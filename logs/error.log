@@ -1,0 +1,37 @@
+[2025-06-19 08:14:00] Call to undefined method Controller::getJsonData() in C:\xampp\htdocs\datastack\api\auth\login.php:10
+[2025-06-19 08:16:12] Undefined array key "columns" in C:\xampp\htdocs\datastack\models\Model.php:122
+[2025-06-19 08:20:06] Undefined array key "password_hash" in C:\xampp\htdocs\datastack\api\auth\login.php:25
+[2025-06-19 08:27:38] Undefined array key "user_password_hash" in C:\xampp\htdocs\datastack\api\auth\login.php:25
+[2025-06-23 12:27:38] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-23 12:37:45] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-23 20:21:26] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-24 09:42:44] Trying to access array offset on value of type null in C:\xampp\htdocs\datastack\api\clockify\upload.php:10
+[2025-06-24 09:43:57] Trying to access array offset on value of type null in C:\xampp\htdocs\datastack\api\clockify\upload.php:10
+[2025-06-24 09:54:26] Trying to access array offset on value of type null in C:\xampp\htdocs\datastack\api\clockify\upload.php:10
+[2025-06-24 10:03:02] Trying to access array offset on value of type null in C:\xampp\htdocs\datastack\api\clockify\upload.php:10
+[2025-06-24 10:12:37] Trying to access array offset on value of type null in C:\xampp\htdocs\datastack\api\clockify\upload.php:10
+[2025-06-24 10:30:44] Trying to access array offset on value of type null in C:\xampp\htdocs\datastack\api\clockify\upload.php:10
+[2025-06-24 10:45:45] Trying to access array offset on value of type null in C:\xampp\htdocs\datastack\api\clockify\upload.php:10
+[2025-06-24 10:45:54] Trying to access array offset on value of type null in C:\xampp\htdocs\datastack\api\clockify\upload.php:10
+[2025-06-24 10:47:47] json_encode(): Argument #2 ($flags) must be of type int, array given in C:\xampp\htdocs\datastack\api\clockify\upload.php:11
+[2025-06-24 10:49:34] Call to private method Controller::parseCookies() from global scope in C:\xampp\htdocs\datastack\api\clockify\upload.php:10
+[2025-06-24 11:03:24] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'group,email,tags,billable,start_date,start_time,end_date,end_time,duration_h,...' at line 1 in C:\xampp\htdocs\datastack\models\Model.php:86
+[2025-06-24 11:20:42] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-24 11:20:50] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-24 11:24:12] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-24 11:24:32] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-24 11:34:03] Call to undefined method UserModel::find() in C:\xampp\htdocs\datastack\api\auth\register.php:50
+[2025-06-24 11:35:48] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-24 12:48:25] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'group, clockify.email as email, clockify.tags as tags, clockify.billable as b...' at line 1 in C:\xampp\htdocs\datastack\models\ClockifyModel.php:21
+[2025-06-24 13:54:49] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-24 14:01:09] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-24 14:02:39] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-24 14:06:57] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-24 14:13:06] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-24 14:31:23] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-24 14:34:27] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-24 20:21:58] Call to undefined method UserModel::find() in C:\xampp\htdocs\datastack\api\auth\register.php:50
+[2025-06-24 20:32:48] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-24 20:46:35] UserModel::getMe(): Argument #1 ($token) must be of type string, null given, called in C:\xampp\htdocs\datastack\api\auth\me.php on line 28 in C:\xampp\htdocs\datastack\models\UserModel.php:31
+[2025-06-26 10:09:20] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'clockify.parrentTask' in 'field list' in C:\xampp\htdocs\datastack\models\ClockifyModel.php:21
+[2025-06-26 10:09:48] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'clockify.parrentTask' in 'field list' in C:\xampp\htdocs\datastack\models\ClockifyModel.php:21

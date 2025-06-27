@@ -1,0 +1,8 @@
+### Logowanie admina
+POST http://localhost/datastack/api/auth/login.php
+Content-Type: application/json
+
+{
+  "email": "jewgienij.brzozowskin@germaniamint.com",
+  "password": "technics1210"
+}

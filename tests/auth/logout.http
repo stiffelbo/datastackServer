@@ -1,0 +1,3 @@
+GET http://localhost/datastack/api/auth/logout.php
+Accept: application/json
+Cookie: id=12; token=2847f990100a436f6abaf6e483b1e90a
